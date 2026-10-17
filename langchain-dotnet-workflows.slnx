@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01-workflow-sequencial/01-workflow-sequencial.csproj" />
+  <Project Path="02-outputs-contratos/02-outputs-contratos.csproj" />
+  <Project Path="03-routing-workflow/03-routing-workflow.csproj" />
+  <Project Path="04-parallel-workflow/04-parallel-workflow.csproj" />
+</Solution>
